@@ -45,7 +45,7 @@ Requisitos técnicos
 
 3. Planificación
 
-Tareas de la fase 1: https://github.com/carpanla/sudoku
+    - Tareas de la fase 1: https://github.com/carpanla/sudoku
 
 4. Desarrolla
 
