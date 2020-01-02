@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+﻿Sudoku con emojis - App para hacer sudokus con emojis 🤪🤪:D
+Se trata de mi primer proyecto personal y lo estoy empezando a dar forma mientras termino el curso de programación web en Adalab.
+Objetivos personales
+Mis objetivos personales con este proyecto son:
+    • Mejorar los conocimientos de maquetación web que he adquirido durante mi formación en Adalab.
+    • Profundizar más en el lenguaje de programación JavaScript y, fundamentalmente, en el manejo del framework React. Intentar aplicar buenas prácticas y crear un código optimizado.
+    • Que este proyecto desarrollado con React pueda servirme de base para poder migrarlo a otras librerías (Vue, Angular…) en un futuro próximo.
+    • Mejorar cualidades complementarias a la programación:
+            ▪ Realizar un diseño de la interfaz de usuario atractivo a la vez que práctico y adaptable a diferentes dispositivos.
+            ▪ Ganar experiencia en la planificación y desarrollo de un producto digital desde cero.
+Objetivo del proyecto
+El objetivo de la aplicación es básicamente lúdico y consistiría en completar sudokus pero, en lugar utilizar números, nuestras piezas del puzle serían emojis.
 
-## Available Scripts
+Fases del proyecto
+Fase 1
+1. Requisitos
+Descripción
+En esta primera fase voy a estructurar el proyecto e intentar definir las distintas fases del mismo.
+    • En primer lugar, realizaré una propuesta de maquetación básica y su correspondiente diagrama de flujo. 
+    • Para poder poner a funcionar el sudoku investigaré las distintas posibilidades que ya existen (componentes de react que generan sudokus numéricos, distintas webs para jugar online, etc) e intentaré comprender su funcionamiento para poder adaptarlo a mis objetivos.
+    • Será necesario hacer un pequeño estudio para elegir los emojis que voy a utilizar y que sean lo más adecuado posibles. Todos tenemos los números interiorizados y sabemos su orden, pero no ocurre lo mismo con los emojis :-)
+Requisitos técnicos
+2. Prototipo
+3. Planificación
+Tareas de la fase 1: https://github.com/carpanla/sudoku
+4. Desarrolla
 
-In the project directory, you can run:
+5. Feedback y valoración
+Para saber si he cumplido mi objetivo voy a:
+    1. Probar la aplicación con datos de entrada correctos
+    2. Probar la aplicación con datos de entrada incorrectos, como por ejemplo, números.
+    3. Voy a enseñárselo al otro profesor de Adalab y obtener otro feedback.
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
