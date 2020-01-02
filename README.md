@@ -14,7 +14,7 @@ Mis objetivos personales con este proyecto son:
 
     • Mejorar cualidades complementarias a la programación:
 
-            ▪ Realizar un diseño de la interfaz de usuario atractivo a la vez que práctico y adaptable a diferentes dispositivos.
+            ▪ Realizar un diseño de la interfaz de usuario atractivo a la vez que práctico y adaptable    a diferentes dispositivos.
             ▪ Ganar experiencia en la planificación y desarrollo de un producto digital desde cero.
 
 
@@ -28,18 +28,18 @@ Fase 1
 
 1. Requisitos
 
-Descripción
+    - Descripción
 
-En esta primera fase voy a estructurar el proyecto e intentar definir las distintas fases del mismo.
+        En esta primera fase voy a estructurar el proyecto e intentar definir las distintas fases del mismo.
 
-    • En primer lugar, realizaré una propuesta de maquetación básica y su correspondiente diagrama de flujo. 
+            • En primer lugar, realizaré una propuesta de maquetación básica y su correspondiente diagrama de flujo. 
 
-    • Para poder poner a funcionar el sudoku investigaré las distintas posibilidades que ya existen (componentes de react 
-    que generan sudokus numéricos, distintas webs para jugar online, etc) e intentaré comprender su funcionamiento para poder adaptarlo a mis objetivos.
+            • Para poder poner a funcionar el sudoku investigaré las distintas posibilidades que ya existen (componentes de react 
+            que generan sudokus numéricos, distintas webs para jugar online, etc) e intentaré comprender su funcionamiento para poder adaptarlo a mis objetivos.
 
-    • Será necesario hacer un pequeño estudio para elegir los emojis que voy a utilizar y que sean lo más adecuado posibles. Todos tenemos los números interiorizados y sabemos su orden, pero no ocurre lo mismo con los emojis 😊
+            • Será necesario hacer un pequeño estudio para elegir los emojis que voy a utilizar y que sean lo más adecuado posibles. Todos tenemos los números interiorizados y sabemos su orden, pero no ocurre lo mismo con los emojis 😊
 
-Requisitos técnicos
+    - Requisitos técnicos
 
 2. Prototipo
 
@@ -51,13 +51,13 @@ Requisitos técnicos
 
 5. Feedback y valoración
 
-Para saber si he cumplido mi objetivo voy a:
+    - Para saber si he cumplido mi objetivo voy a:
 
-    1. Probar la aplicación con datos de entrada correctos
+        1. Probar la aplicación con datos de entrada correctos
 
-    2. Probar la aplicación con datos de entrada incorrectos, como por ejemplo, números.
+        2. Probar la aplicación con datos de entrada incorrectos, como por ejemplo, números.
 
-    3. Voy a enseñárselo al otro profesor de Adalab y obtener otro feedback.
+        3. Voy a enseñárselo al otro profesor de Adalab y obtener otro feedback.
 
 
 
