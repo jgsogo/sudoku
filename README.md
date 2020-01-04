@@ -1,4 +1,6 @@
-﻿Sudoku con emojis - App para hacer sudokus con emojis 🤪🤪
+# Sudoku
+
+Sudoku con emojis - App para hacer sudokus con emojis 🤪🤪
 
 Se trata de mi primer proyecto personal y lo estoy empezando a dar forma mientras termino el curso de programación web en Adalab.
 
