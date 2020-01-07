@@ -1,13 +1,15 @@
 # Sudoku 🤪Emojis
 ***App para hacer sudokus ¡con emojis!***
 
-Se trata de mi primer proyecto personal y lo estoy empezando a dar forma mientras termino el curso de programación web en Adalab. Para que desde el principio se pueda seguir el desarrollo del juego he incluido un página que hace las veces de diario o bitácora, y ahí iré contando mis pequeños y grandes logros 💪.
+Se trata de mi primer proyecto personal y le estoy empezando a dar forma mientras termino el curso de programación web en Adalab. Para que desde el principio se pueda seguir el desarrollo del juego he incluido un página que hace las veces de diario o bitácora, y ahí iré contando mis pequeños y grandes logros 💪.
 
 **¿Cómo funciona Sudoku con emojis?**
 
 Si te interesa o tienes curiosidad por el proyecto, para utilizarlo en tu ordenador solo tendrás que hacer lo siguiente:
-1. Clonar este repositorio en tu local  (*git clone*)
-2. Y después ejecutar en tu terminal *npm install* y *npm start*...¡Y sudoku con emojis estará funcionando!
+1. Clonar este repositorio en tu local  (`git clone`)
+2. Después tendrás que ejecutar en tu terminal `npm install` y `npm start`
+3. Como Sudoku con emojis está maquetado con SASS, también ejecutaremos `npm install node-sass`
+3. Para poder navegar entre las distinas pestañas de la página solo faltará instalar lo siguiente: `npm install --save react-router-dom`...¡Y sudoku con emojis estará funcionando!
 
 Es necesario que tengas instalado node.js y npm para que esto funcione 😉
 
